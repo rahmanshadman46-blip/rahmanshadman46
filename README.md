@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shadman</h1>
-<h3 align="center">A passionate frontend developer from BangladeshIndia</h3>
+<h3 align="center">A passionate frontend developer from BangladeshI</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahmanshadman46-blip&label=Profile%20views&color=0e75b6&style=flat" alt="rahmanshadman46-blip" /> </p>
 
